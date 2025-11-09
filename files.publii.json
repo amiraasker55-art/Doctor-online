@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "f81f521d180e1b423734934195ae5299"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "8d63814679aeb275ef898de4b851c841"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "b16daf4b1601286f95920196aa9f42a4"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "fa10656c5a98edd34dbb3837b4dbdbdb"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "14cc1a7a2b8495ecc7343640e751f91c"
+    },
+    {
+        "path": "learn-quran-recitation-a-complete-guide-to-mastering-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-a-complete-guide-to-mastering-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "a812981c589eb5c4f786d43918b1f66d"
+    },
+    {
+        "path": "learn-quran-recitation-a-complete-guide-to-mastering-the-words-of-allah-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-a-complete-guide-to-mastering-the-words-of-allah-2/index.html",
+        "type": "file",
+        "md5": "5061f20e5c61536b423829564e9ab8ed"
+    },
+    {
+        "path": "learn-quran-recitation-discover-the-beauty-of-reading-the-holy-quran-correctly",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-discover-the-beauty-of-reading-the-holy-quran-correctly/index.html",
+        "type": "file",
+        "md5": "b5766accd4e26a4f2de66b45efd64e73"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/images-1.png",
+        "type": "file",
+        "md5": "8ad0afcc1f6886cfedcc42e7a25ca618"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/images-1-2xl.png",
+        "type": "file",
+        "md5": "95f447297152e2204906f7fd724a6660"
+    },
+    {
+        "path": "/media/website/responsive/images-1-lg.png",
+        "type": "file",
+        "md5": "95f447297152e2204906f7fd724a6660"
+    },
+    {
+        "path": "/media/website/responsive/images-1-md.png",
+        "type": "file",
+        "md5": "95f447297152e2204906f7fd724a6660"
+    },
+    {
+        "path": "/media/website/responsive/images-1-sm.png",
+        "type": "file",
+        "md5": "95f447297152e2204906f7fd724a6660"
+    },
+    {
+        "path": "/media/website/responsive/images-1-xl.png",
+        "type": "file",
+        "md5": "95f447297152e2204906f7fd724a6660"
+    },
+    {
+        "path": "/media/website/responsive/images-1-xs.png",
+        "type": "file",
+        "md5": "95f447297152e2204906f7fd724a6660"
+    },
+    {
+        "path": "online-quran-classes-bringing-the-light-of-the-quran-to-every-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-bringing-the-light-of-the-quran-to-every-home/index.html",
+        "type": "file",
+        "md5": "acac8c803a75fbd13bec5859c6b1449d"
+    },
+    {
+        "path": "online-quran-classes-the-modern-way-to-learn-the-holy-quran-from-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/online-quran-classes-the-modern-way-to-learn-the-holy-quran-from-home/index.html",
+        "type": "file",
+        "md5": "f53fe504232b7d86e7592ac9275e0c63"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "ba931f24ba10201039184f77768c2302"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "73d8c95fc8317ec947a15ad6e830ffa0"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "cbc13ec9c0ec597dba77dd5c41c8f1af"
+    }
+]
